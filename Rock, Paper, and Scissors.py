@@ -45,4 +45,4 @@ while True:
     if retry.lower() != "y":
         break
 
-print("You did well!")
+print("You did great!")
